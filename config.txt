@@ -1,0 +1,6 @@
+﻿token=NDI2MzMzMzQ1NzExMTI4NTk2.Dt6dig.0j8bcjaFCyfMYtqKHhA3oXfxtgQ
+owner=419474365248438282 
+prefix=#
+game=sok mok
+stayinchannel=true
+songinstatus=false
